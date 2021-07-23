@@ -3,7 +3,7 @@
 ## 01 - 訂購人資訊登入
 * 使用PHP將App將資料新增至MySQL Customer表單
 
-![image](https://github.com/ArielKoKo/ShoppingCart/blob/main/PHOTO%20%26%20GIF/shoppingCart_01.png) {:height="100" width="100"}
+![image](https://github.com/ArielKoKo/ShoppingCart/blob/main/PHOTO%20%26%20GIF/shoppingCart_01.png){:height="100" width="100"}
 
 ## 02 - 商品清單
 * 從MySQL 下載商品資料
