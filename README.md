@@ -1,4 +1,5 @@
-# ShoppingCart
+# ShoppingCart 購物車App
+### 用MySQL當資料庫,使用Swift語言建立購物車App
 
 ## 01 - 訂購人資訊登入
 * 使用PHP將App將資料新增至MySQL Customer表單
