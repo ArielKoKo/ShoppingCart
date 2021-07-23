@@ -3,18 +3,18 @@
 ## 01 - 訂購人資訊登入
 * 使用PHP將App將資料新增至MySQL Customer表單
 
-<img src="https://github.com/ArielKoKo/ShoppingCart/blob/main/PHOTO%20%26%20GIF/shoppingCart_01.png" width="50%" height="50%" />
+<img src="https://github.com/ArielKoKo/ShoppingCart/blob/main/PHOTO%20%26%20GIF/shoppingCart_01.png" width="30%" height="30%" />
 
 ## 02 - 商品清單
 * 從MySQL 下載商品資料
 
-<img src="https://github.com/ArielKoKo/ShoppingCart/blob/main/PHOTO%20%26%20GIF/shoppingCart_02.png" width="50%" height="50%" />
+<img src="https://github.com/ArielKoKo/ShoppingCart/blob/main/PHOTO%20%26%20GIF/shoppingCart_02.png" width="30%" height="30%" />
 
 ## 03 - 選擇訂購商品,數量新增至購物車
 ![image](https://github.com/ArielKoKo/ShoppingCart/blob/main/PHOTO%20%26%20GIF/shoppingCart_03.gif)
 
 ## 04 - 購物車商品確認,可在此做加減或刪除
-<img src="https://github.com/ArielKoKo/ShoppingCart/blob/main/PHOTO%20%26%20GIF/shoppingCart_04.png" width="50%" height="50%" />
+<img src="https://github.com/ArielKoKo/ShoppingCart/blob/main/PHOTO%20%26%20GIF/shoppingCart_04.png" width="30%" height="30%" />
 
 ## 05 - 訂單確認,確認商品資訊 
 * 使用PHP將App資料新增至MySQL orderForm 表單 & orderLine 表單做資料分析
